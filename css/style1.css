@@ -8,6 +8,13 @@ nav ul{
     gap: 64px;
     list-style-type: none;
 }
+
+.vertical ul{
+    display: flex;
+    flex-direction: column;
+    gap: 16px;
+    list-style-type: none;
+}
 main{
     background-color: yellow;
     min-height: 100%;
