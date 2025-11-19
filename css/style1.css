@@ -23,3 +23,15 @@ main{
     justify-content: center;
     align-items: center;
 }
+.pane{
+    display: flex;
+    flex-direction: row;
+}
+
+.card{
+    flex: 1;
+}
+
+.mango{
+    width: 100%;
+}
